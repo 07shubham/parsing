@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <name>Sahil</name>
+        <surname>Thakur</surname>
+        <salary>50000</salary>
+    </employee>
+
+    <employee>
+        <name>Adarsh</name>
+        <surname>Kumar</surname>
+        <salary>60000</salary>
+    </employee>
+
+    <employee>
+        <name>Prashant</name>
+        <surname>Kumar</surname>
+        <salary>70000</salary>
+    </employee>
+
+</records>
